@@ -3,7 +3,7 @@
 
   A fully responsive web music player <br />Responsive for all devices, build using html, css, and javascript.
 
-  <a href=""><strong>➥ Live Demo</strong></a>
+  <a href="google.com"><strong>➥ Live Demo</strong></a>
 
 </div>
 
